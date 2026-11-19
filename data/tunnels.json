@@ -1,0 +1,215 @@
+[
+  {
+    "id": "t001",
+    "name": "Riqueval",
+    "fullName": "Souterrain de Riqueval",
+    "canal": "Canal de Saint-Quentin",
+    "route": 29,
+    "lat": 49.9714,
+    "lon": 3.25,
+    "length_m": 5670,
+    "pk": "97",
+    "tug_required": true,
+    "convoys": [
+      {
+        "label": "S-bound (St-Quentin → Oise)",
+        "times": [
+          "07:30",
+          "13:30"
+        ]
+      },
+      {
+        "label": "N-bound (Oise → St-Quentin)",
+        "times": [
+          "10:00",
+          "16:00"
+        ]
+      }
+    ],
+    "booking": "48 h advance booking required",
+    "contact": "VNF HAF: 03 23 09 17 70",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "kind": "tunnel"
+  },
+  {
+    "id": "t002",
+    "name": "Mauvages",
+    "fullName": "Souterrain de Mauvages",
+    "canal": "Canal de la Marne au Rhin (Ouest)",
+    "route": 35,
+    "lat": 48.5844,
+    "lon": 5.5189,
+    "length_m": 4877,
+    "pk": "86.6–91.5",
+    "tug_required": false,
+    "convoys": [
+      {
+        "label": "Escorted passage",
+        "times": [
+          "Contact VNF for times"
+        ]
+      }
+    ],
+    "booking": "Contact VNF before arriving at the tunnel",
+    "contact": "VNF Est: 03 83 48 73 40",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "kind": "tunnel",
+    "air_m": 5.0,
+    "passage": "Own power, escorted by a VNF agent (the electric tug was withdrawn in April 2013)",
+    "source": "CETU 2026 (length); fr.wikipedia Tunnel de Mauvages (position, PK, 5.00 m guaranteed air, 2013 tug withdrawal)"
+  },
+  {
+    "id": "t003",
+    "name": "Foug",
+    "fullName": "Souterrain de Foug",
+    "canal": "Canal de la Marne au Rhin",
+    "route": 35,
+    "lat": 48.6769,
+    "lon": 5.7693,
+    "length_m": 867,
+    "tug_required": false,
+    "convoys": [
+      {
+        "label": "Alternating one-way passage",
+        "times": [
+          "Contact VNF for times"
+        ]
+      }
+    ],
+    "booking": "Contact VNF Est for current schedule",
+    "contact": "VNF Est: 03 83 48 73 40",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "kind": "tunnel",
+    "passage": "Single-track — one direction at a time; wait your turn at the approaches",
+    "source": "CETU liste des tunnels-canaux 2026 (length); CanalPlanAC (portals)"
+  },
+  {
+    "id": "t004",
+    "name": "Pouilly-en-Auxois",
+    "fullName": "Souterrain de Pouilly",
+    "canal": "Canal de Bourgogne",
+    "route": 12,
+    "lat": 47.2654,
+    "lon": 4.559,
+    "length_m": 3333,
+    "pk": "229",
+    "tug_required": false,
+    "convoys": [
+      {
+        "label": "S-bound (Dijon → Pouilly)",
+        "times": [
+          "08:00",
+          "14:00"
+        ]
+      },
+      {
+        "label": "N-bound (Pouilly → Dijon)",
+        "times": [
+          "11:00",
+          "17:00"
+        ]
+      }
+    ],
+    "booking": "No advance booking — arrive before convoy",
+    "contact": "VNF Bourgogne: 03 80 63 10 30",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "kind": "tunnel"
+  },
+  {
+    "id": "t005",
+    "name": "Balesmes",
+    "fullName": "Souterrain de Balesmes",
+    "canal": "Canal entre Champagne et Bourgogne",
+    "route": 36,
+    "lat": 47.8121,
+    "lon": 5.3703,
+    "length_m": 4820,
+    "tug_required": null,
+    "convoys": [
+      {
+        "label": "Passage rules",
+        "times": [
+          "Check with VNF"
+        ]
+      }
+    ],
+    "booking": "Check current passage rules with VNF before reaching the summit level",
+    "contact": "VNF Est: 03 25 04 91 00",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "kind": "tunnel",
+    "source": "CETU liste des tunnels-canaux 2026 (length); CanalPlanAC (portals)"
+  },
+  {
+    "id": "t006",
+    "name": "Condes",
+    "fullName": "Souterrain de Condes",
+    "canal": "Canal entre Champagne et Bourgogne",
+    "route": 36,
+    "lat": 48.1439,
+    "lon": 5.1386,
+    "length_m": 275,
+    "tug_required": null,
+    "convoys": [
+      {
+        "label": "Passage rules",
+        "times": [
+          "Check with VNF"
+        ]
+      }
+    ],
+    "booking": "Short tunnel — check passage rules with VNF",
+    "contact": "VNF Est: 03 25 04 91 00",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "source": "CETU liste des tunnels-canaux 2026 (length); CanalPlanAC (portals)",
+    "kind": "tunnel"
+  },
+  {
+    "id": "t007",
+    "name": "Arzviller",
+    "fullName": "Tunnel-canal d'Arzviller",
+    "canal": "Canal de la Marne au Rhin (Est)",
+    "route": 81,
+    "lat": 48.7234,
+    "lon": 7.1765,
+    "length_m": 2307,
+    "tug_required": false,
+    "passage": "Own power, following the instructions posted by VNF",
+    "convoys": [
+      {
+        "label": "Passage",
+        "times": [
+          "Follow VNF signals at the portals"
+        ]
+      }
+    ],
+    "booking": "No booking known — check VNF notices",
+    "contact": "",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "source": "CETU 2026 (length); fr.wikipedia Tunnel-canal d'Arzviller (position, passage)",
+    "kind": "tunnel"
+  },
+  {
+    "id": "t008",
+    "name": "Niderviller",
+    "fullName": "Souterrain de Niderviller",
+    "canal": "Canal de la Marne au Rhin (Est)",
+    "route": 81,
+    "lat": 48.7228,
+    "lon": 7.1311,
+    "length_m": 475,
+    "tug_required": null,
+    "convoys": [
+      {
+        "label": "Passage rules",
+        "times": [
+          "Check with VNF"
+        ]
+      }
+    ],
+    "booking": "Short tunnel — check passage rules with VNF",
+    "contact": "",
+    "vnf_url": "https://www.vnf.fr/vnf/naviguer-sur-le-reseau/naviguer/les-souterrains/",
+    "source": "CETU liste des tunnels-canaux 2026 (length); CanalPlanAC (portals)",
+    "kind": "tunnel"
+  }
+]

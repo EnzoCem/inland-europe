@@ -1,0 +1,22 @@
+{
+  "closures": {
+    "date": "2026-11-16"
+  },
+  "osm_pois": {
+    "date": "2026-07-17"
+  },
+  "waterways": {
+    "date": "2026-07-17",
+    "note": "a few lines added or trimmed 2026-10"
+  },
+  "ienc": {
+    "date": "2026-07-17",
+    "note": "extraction date; many source charts are 2021–2022 editions"
+  },
+  "michelin": {
+    "date": "2026-03-31"
+  },
+  "sea_pois": {
+    "date": "2026-11-19"
+  }
+}
